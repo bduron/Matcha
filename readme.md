@@ -69,7 +69,7 @@ Still we know their importance and wrote our last project (link) with 100% tests
 Here are some key points we should improve in our next projects. 
 
 ### Architecture 
-As the project resources didn't need to be available to third party developers or clients (native app) and the app needed to be real-time, we chose to only utilize web sockets to communicate between the server and the client. We came up with an RPC like architecture. But compounded with the project constraints, that quickly resulted in substantial code overhead to implement each subsequent features. 
+As the project resources didn't need to be available to third party developers or clients (native app) and the app needed to be real-time, we chose to only utilize web sockets to communicate between the server and the client. We came up with an RPC like architecture. But compounded with the project constraints, that quickly resulted in code overhead to implement each subsequent features. 
 
 In hindsight we should have designed a standard RESTful API, as it would have been cleaner, more scalable and faster to write. 
 
