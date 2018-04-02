@@ -1,6 +1,7 @@
 
 # Matcha
  Link to app: https://matcha-duron.herokuapp.com/.
+ Demo acount: demo / Azerty123
 
 _(* the page can take some times to load because our free heroku server becomes idle after 30 mins of inactivity)_
 
